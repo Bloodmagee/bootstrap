@@ -1,0 +1,30 @@
+@import url ('https://fonts.googleapis.com/css?family=Merriweather|Raleway');
+
+*{
+    margin: 0;
+    padding:0;
+}
+
+.display-3, .display-1, h2 {
+    font-family: 'Merriweather', serif;
+}
+
+p {
+    font-family:'Raleway', sans-serif;
+}
+
+footer{
+    color: aliceblue;
+    clear: both;
+    display: block;
+    margin: 0px auto;
+    bottom: 100px;
+}
+
+#facebook{
+    margin-left: 3rem;
+}
+
+container {
+    font-family:'Raleway', sans-serif;
+}
